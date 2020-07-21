@@ -1,2 +1,2 @@
 # Intro-Git
-Introduction to Gut and GitHub Coursear 
+Introduction to Git and GitHub Coursera course provided by Google 
